@@ -1,0 +1,11 @@
+Version 7.2.4-1
+
+sudo pacman -S virtualbox virtualbox-host-dkms dkms
+
+(download the ext mannualy)
+https://www.virtualbox.org/wiki/Downloads
+
+
+yay -S virtualbox virtualbox-host-dkms dkms virtualbox-ext-oracle
+
+
